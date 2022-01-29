@@ -1,0 +1,27 @@
+h1{
+    background-color: brown;
+    font-size:60px;
+    text-align: center;
+    border-bottom:1px solid gray;
+    padding:20px;
+    margin:0;
+}
+body{
+    font-size:17px;
+}
+#grid{
+    display : grid;
+    grid-template-columns: 180px 1fr;
+}
+#grid ul{
+    font-size : 18px;
+    padding-left : 33px;
+    border-right:1px solid gray;
+    width:130px;
+    margin:0;
+    padding:20px;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
