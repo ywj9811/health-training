@@ -20,8 +20,13 @@ body{
     width:130px;
     margin:0;
     padding:20px;
+    padding-bottom : 500px;
 }
 a{
     text-decoration: none;
     color:black;
+}
+.back a{
+    text-decoration: none;
+    color: darkcyan;
 }
