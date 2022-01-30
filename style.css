@@ -13,7 +13,8 @@ body{
     display : grid;
     grid-template-columns: 180px 1fr;
 }
-.size{
+.size ul{
+    list-style: none;
     font-size:17px;
     padding-left: 0px;
     padding-right: 0px;
