@@ -1,4 +1,4 @@
-h1{
+.main h1{
     background-color: brown;
     font-size:60px;
     text-align: center;
@@ -9,26 +9,24 @@ h1{
 body{
     font-size:19px;
 }
-.grid{
+#grid{
     display : grid;
     grid-template-columns: 180px 1fr;
 }
-.size{
-    font-size:17px;
-    padding-left: 0px;
-    padding-right: 0px;
-}
-#main ul{
-    display : grid;
+
+#grid ul{
     font-size : 18px;
-    padding-left : 33px;
     border-right:1px solid gray;
     width:130px;
     margin:0;
     padding:20px;
-    padding-bottom:677px;
+    padding-bottom : 500px;
 }
 a{
     text-decoration: none;
     color:black;
+}
+.back a{
+    text-decoration: none;
+    color: darkcyan;
 }
