@@ -27,9 +27,25 @@ body{
     width:130px;
     margin:0;
     padding:20px;
-    padding-bottom:800px;
+    padding-bottom:840px;
 }
 a{
     text-decoration: none;
     color:black;
+}
+
+footer{
+    padding-top : 10px;
+    padding-bottom : 2px;
+    background-color: rgb(216, 216, 216);
+    font-size : 13px;
+    border-top : 1px solid gray;
+    color:rgb(24, 24, 24)
+}
+
+nav{
+    padding-left : 40px;
+}
+.address{
+    padding-left: 40px;
 }
