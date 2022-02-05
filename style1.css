@@ -19,9 +19,20 @@ body{
     border-right:1px solid gray;
     width:130px;
     margin:0;
-    padding:20px;
+    padding:0px;
     padding-bottom : 500px;
+    list-style : none;
 }
+
+li{
+    border : 1px solid gray;
+    text-align: center;
+    padding-right:40px;
+    padding-left:40px;
+    padding-top:5px;
+    padding-bottom:5px;
+}
+
 a{
     text-decoration: none;
     color:black;
